@@ -59,8 +59,6 @@ Mindset    : Learn deeply. Build consistently. Keep evolving.
 
 </div>
 
----
-
 ## `contribution graph`
 
 <div align="center">
